@@ -12,6 +12,9 @@
 			<li>
 				<a href="/contact">Contact</a>
 			</li>
+			<li>
+				<a href="/uses">Markdown Notes</a>
+			</li>
 		</ul>
 	</nav>
 </header>
