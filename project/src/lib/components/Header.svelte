@@ -13,7 +13,7 @@
 				<a href="/contact">Contact</a>
 			</li>
 			<li>
-				<a href="/uses">Markdown Notes</a>
+				<a href="/notes">Markdown Notes</a>
 			</li>
 		</ul>
 	</nav>

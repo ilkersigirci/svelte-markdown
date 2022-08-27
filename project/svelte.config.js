@@ -11,7 +11,10 @@ const config = {
 	preprocess: [
 		sveltePreprocess(),
 		mdsvex({
-			extensions: ['.md']
+			extensions: ['.md'],
+			layout: {
+				notes: 'src/routes/notes/post.svelte'
+			}
 		})
 	]
 };
