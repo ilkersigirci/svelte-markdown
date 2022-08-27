@@ -1,3 +1,8 @@
+---
+title: Post One
+date: '2021-12-14'
+---
+
 ## Svelte cheatsheet
 
 [Doc examples](https://svelte.dev/examples)
