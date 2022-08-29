@@ -5,7 +5,7 @@
 
 <article>
 	<h1>{title}</h1>
-	<p>Published: {date}</p>
+	<p>Published slug: {date}</p>
 	<!-- <svelte:component this={Content} /> -->
 	<Content />
 </article>
