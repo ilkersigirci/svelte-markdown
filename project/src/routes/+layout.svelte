@@ -1,12 +1,12 @@
 <script>
-import Header from "$lib/components/Header.svelte"
-import '$lib/styles/style.scss'
+	import Header from '$lib/components/Header.svelte';
+	import '$lib/styles/style.scss';
 </script>
 
-<Header/>
+<Header />
 
 <main>
-  <slot />
+	<slot />
 </main>
 
 <footer>Hello, I'm the footer.</footer>
