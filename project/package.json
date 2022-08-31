@@ -26,6 +26,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@bytemd/plugin-gfm": "^1.17.2",
+		"bytemd": "^1.17.2",
 		"rehype-autolink-headings": "^6.1.1",
 		"rehype-slug": "^5.0.1"
 	}
